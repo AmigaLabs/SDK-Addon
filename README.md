@@ -5,6 +5,7 @@ The SDK Addon package is meant to be installed on top of the AmigaOS 4 SDK. This
 
 This package contains native versions of:
 
+- gcc15
 - gcc13
 - gcc11
 - gcc8
